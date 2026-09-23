@@ -41,9 +41,13 @@ We believe founder potential is everywhere. Complete venture-building support is
 
 Ten stages. One aligned building team. From raw potential to a company built to endure.
 
-## Companies we're building
+## A portfolio that keeps growing
 
-| Venture | Sector | What it is |
+AERA is not a fixed cohort or a closed list. Our portfolio and founder network expand continuously as exceptional people and meaningful opportunities move through our venture-building system.
+
+The companies below are **selected examples—not a complete roster**:
+
+| Venture | Focus | What it is |
 | --- | --- | --- |
 | [DRIVVR](https://www.drivvr.app/) | Mobility | Technology for safer, more intelligent mobility. |
 | [SELLIO](https://www.sellio.ltd/) | Commerce | Modern commerce infrastructure for ambitious sellers. |
@@ -51,19 +55,25 @@ Ten stages. One aligned building team. From raw potential to a company built to 
 | [KAVA AI](https://www.kava.surf/) | Applied AI | Applied intelligence for higher-leverage work. |
 | [FARMSAT AI](https://www.farmsat.space/) | Agritech | Satellite-powered agricultural intelligence for better decisions. |
 | [AJO CASH](https://ajo.cash/) | Fintech | Community-powered financial tools built for everyday progress. |
+| **ChangeLedger** | Emerging venture | An AERA company currently being built and developed. |
+| **BorderMind AI** | Emerging venture | An AERA company currently being built and developed. |
 
-## For founders
+**And this is only a snapshot. New founders, companies, and categories keep joining the AERA ecosystem.**
 
-We build alongside ambitious African founders who are close to meaningful problems and bold enough to solve them at global scale.
+## For founders—today and tomorrow
+
+We build alongside a growing community of ambitious African founders who are close to meaningful problems and bold enough to solve them at global scale.
 
 If you have hard-earned insight, unusual conviction, and the courage to build something that should exist, AERA brings the product, technical, operational, and company-building force required to move from potential to proof—and from proof to scale.
 
-## What we've achieved
+There is no fixed founder class and no final portfolio count. AERA keeps discovering, developing, and building with the next generation of extraordinary company creators.
 
-- Built an active portfolio of **six technology ventures** across mobility, commerce, health, applied AI, agriculture, and finance.
-- Established an end-to-end **10-stage venture-building system** from talent discovery to global scale.
-- Created a shared technology and operating foundation that helps founders move faster without sacrificing quality.
-- Built in Africa, with every venture designed for global relevance.
+## What we're building toward
+
+- An ever-expanding portfolio spanning mobility, commerce, health, applied AI, agriculture, finance, and categories still waiting to be defined.
+- An end-to-end **10-stage venture-building system** that can carry founders from talent discovery to global scale.
+- A shared technology and operating foundation that helps every new venture move faster without sacrificing quality.
+- A durable pipeline of globally relevant companies built from Africa.
 
 ## Our standard
 
